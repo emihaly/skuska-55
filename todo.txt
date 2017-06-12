@@ -1,4 +1,5 @@
-- vytvarat access zaznam pri registracii
+i
+-9- vytvarat access zaznam pri registracii
 - PR STLPEC SELLER
 - voda odmerat
 - polozky clanku poslat
