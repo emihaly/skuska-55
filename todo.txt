@@ -1,4 +1,7 @@
-i
+jano2
+edo
+88888888
+i2
 -9- vytvarat access zaznam pri registracii
 - PR STLPEC SELLER
 - voda odmerat
